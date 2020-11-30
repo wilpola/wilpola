@@ -10,7 +10,6 @@
 # Who am I?
 
 ```js
-import React from 'react';
 
 class wilpola(props) {
     const me = {
