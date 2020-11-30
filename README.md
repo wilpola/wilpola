@@ -4,7 +4,7 @@
 ---
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilpola)](https://github.com/wilpola/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilpola&layout=compact&langs_count=8)](https://github.com/wilpola/github-readme-stats)
 
 <br />
 <img align="left" alt="wilpola's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wilpola&show_icons=true&count_private=true&theme=radical&hide_border=true" />
