@@ -26,7 +26,7 @@ class wilpola(props) {
         hobbies: [ "Programming", "Running", "Weight Lifting" ],
         skills: [ "HTML", "CSS", "JavaScript", "React" ],
         spokenLanguages: [ "Finnish", "English" ],
-        lifeElixir: "Favorite Coffee === Caramel Latte"
+        lifeElixir: "Caramel Latte"
     }
 
     if (me.occupation === "Front-end Developer" && isTired) {
