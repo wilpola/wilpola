@@ -2,11 +2,12 @@
 
 – 🛠 I'm currently building my portfolio site <br/>
 – 📖 I'm currently learning Fullstack development <br/>
-– 🧬 Coding is my passion
+– 🧬 Coding is my passion <br/>
+– 💡 Hoping to contribute more in the future
 
 <br />
 <br />
-<img align="left" alt="wilpola's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wilpola&show_icons=true&count_private=true&theme=radical&hide_border=true" />
+<img align="left" alt="wilpola's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wilpola&show_icons=true&count_private=true&hide_border=true&theme=buefy" />
 
 
 
