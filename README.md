@@ -1,7 +1,7 @@
 ### Hi, I'm Ville 👋
 
-– 🛠 I'm currently building my portfolio site
-– 📖 I'm currently learning Fullstack development
+– 🛠 I'm currently building my portfolio site <br/>
+– 📖 I'm currently learning Fullstack development <br/>
 – 🧬 Coding is my passion
 
 <br />
