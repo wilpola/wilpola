@@ -18,7 +18,7 @@ class wilpola(props) {
             first: "Ville",
             last: "Wilpola"
         },
-        age: 20,
+        age: 21,
         location: {
             city: "Turku",
             country: "Finland"
