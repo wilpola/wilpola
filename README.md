@@ -17,6 +17,7 @@
 class wilpola(props) {
     const me = {
         occupation: "Front-end Developer",
+        education: "Turku University of Applied Sciences",
         name: {
             first: "Ville",
             last: "Wilpola"
