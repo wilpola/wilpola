@@ -36,7 +36,7 @@ class wilpola(props) {
         lifeElixir: "Caramel Latte"
     }
 
-    if (me.occupation === "Front-end Developer" && isTired) {
+    if (me.occupation === "Front-end Developer" && me.mood === isTired) {
         const cure = me.lifeElixir;
         return cupOf(cure);
     } else {
