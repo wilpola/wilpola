@@ -15,14 +15,17 @@
 ```js
 
 class wilpola(props) {
-    const me = {
+    const me = [{
         name: {
             first: "Ville",
             last: "Wilpola"
         },
         age: 21,
         occupation: "Front-end Developer",
-        education: "Turku University of Applied Sciences",
+        education: {
+            highschool: "The Hill School",
+            university: "Turku University of Applied Sciences",
+        },
         location: {
             city: "Turku",
             country: "Finland"
@@ -39,7 +42,7 @@ class wilpola(props) {
     } else {
         return dontBeLazy();
     }
-}
+}];
 
 ```
 <br/>
