@@ -68,7 +68,5 @@ class wilpola(props) {
 <br/>
 <br/>
 
-## Checkout my [website](https://www.wilpola.com/ "follow the link")
-
 ## Checkout my Design work [dribbble](https://www.dribbble.com/wilpola/ "Follow the link")
 
