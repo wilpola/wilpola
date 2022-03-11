@@ -20,7 +20,7 @@ class wilpola(props) {
             first: "Ville",
             last: "Wilpola"
         },
-        age: 21,
+        age: 22,
         occupation: "Front-end Developer",
         education: {
             highschool: "The Hill School",
