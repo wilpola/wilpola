@@ -21,7 +21,7 @@ class wilpola(props) {
             last: "Wilpola"
         },
         age: 24,
-        occupation: "Front-end Developer",
+        occupation: "Fullstack Developer",
         education: {
             highschool: "The Hill School",
             university: "Turku University of Applied Sciences",
