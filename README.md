@@ -1,6 +1,6 @@
 # Hi, I'm Ville 👋
 
-– 🛠 I'm a Front-end Developer <br/>
+– 🛠 I'm a Fullstack Developer <br/>
 – 📖 I'm currently learning Fullstack development <br/>
 – 💡 Hoping to contribute more to open source code in the future <br/>
 – 🧬 Coding is my passion 
