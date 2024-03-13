@@ -30,7 +30,7 @@ class wilpola(props) {
             country: "Finland"
         },
         hobbies: [ "Programming", "Running", "Weight Lifting" ],
-        skills: [ "HTML", "CSS", "JavaScript", "React" ],
+        skills: [ "HTML", "CSS", "JavaScript", "React", "TypeScript" ],
         spokenLanguages: [ "Finnish", "English" ],
         lifeElixir: "Caramel Latte"
     }
